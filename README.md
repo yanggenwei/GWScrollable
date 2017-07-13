@@ -1,0 +1,2 @@
+# GWScrollable
+基于UIScrollView的一种排版方式,用于解决UIScrollView与其它页面组合时的页面滚动问题.
